@@ -7,6 +7,7 @@ use Illuminate\Http\Request;
 
 use App\Models\Forca\Pergunta;
 use App\Models\Forca\Categoria;
+use App\Models\Forca\Jogo;
 
 class ForcaController extends Controller
 {
